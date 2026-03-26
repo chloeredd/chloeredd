@@ -5,9 +5,9 @@
 - I am expected to graduate May 2026
 
 ## Interests and Skills
-Programming Languages: C, C++, Java, Rust, Python, R, SQL
-Software and OS: Docker, Git, Linux, Windows, MacOS, MongoDB
-Additional: HTML, CSS, SML
+- **Programming Languages**: C, C++, Java, Rust, Python, R, SQL
+- **Software and OS**: Docker, Git, Linux, Windows, MacOS, MongoDB
+- **Additional**: HTML, CSS, SML
 
 ## Relevent Coursework
 
