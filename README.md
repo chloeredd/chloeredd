@@ -13,6 +13,7 @@
 
 ## Contact Info
 ✉️ [E-Mail](chloekredd@gmail.com)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/chloeredd/)
 
 <!--
