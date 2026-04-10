@@ -1,7 +1,7 @@
 # Hello! I'm Chloe🍄
 
 ## About Me
-- I am a undergraduate computer science major at Binghamton University in Vestal, New York
+- I am an undergraduate computer science major at Binghamton University in Vestal, New York
 - I am expected to graduate May 2026
 - [Click here for my resume!](https://drive.google.com/file/d/1JqUKA5OFYbShKY769otJbZ4u6F7QJnZE/view?usp=sharing)
 
