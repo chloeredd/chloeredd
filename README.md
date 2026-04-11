@@ -10,8 +10,8 @@
 - **Software and OS**: Docker, Git, Linux, Windows, MacOS, MongoDB
 - **Additional**: HTML, CSS, SML
 
-## Relevent Coursework
-
+## Coursework
+- Operating Systems, Systems Programming, Data Structures and Algorithms, Algorithm Design and Analysis, Cloud Computing, Advanced Computer Architecture
 ## Contact Info
 ✉️ E-Mail: chloekredd@gmail.com
 
